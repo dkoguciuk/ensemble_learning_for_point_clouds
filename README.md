@@ -1,6 +1,8 @@
 # Point cloud ensemble
 
-Point cloud ensemble is an examination of an impact of ensemble learning methods on 3D point cloud classification. We focus on the direct point cloud processing because such architectures can be adapted to the analysis of different kinds of sets. Seven architectures are used:
+Here one can find code snippets used in the paper: **3D Object Recognition with Ensemble Learning—A Study of Point Cloud-Based Deep Learning Models** [springer](https://link.springer.com/chapter/10.1007/978-3-030-33723-0_9), [arxiv](https://arxiv.org/abs/1904.08159)
+
+We focus on the direct point cloud processing because such architectures can be adapted to the analysis of different kinds of sets. Seven architectures are used:
 - DeepSets [1]
 - PointNet [2]
 - PointNet++ [3]
@@ -90,7 +92,7 @@ KCNet authors prepared cloned version of caffe for KCNet repository. Here's the 
 
 # Authors
 
-This work was done with collaboration with [Łukasz Chechliński](http://wutrobotics.mchtr.pw.edu.pl/?page_id=356). Feel free to check out his great profile.
+This work was done with collaboration with Łukasz Chechliński [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-chechli%C5%84ski-38b469185) and Tarek El-Gaaly [LinkedIn](https://www.linkedin.com/in/tarekelgaaly/). 
 
 ---
 
